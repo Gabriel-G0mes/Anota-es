@@ -1,2 +1,5 @@
 # Anotações
-- Uma série de anotações básicas
+
+## 🧠 Conhecimento
+
+- Uma série de anotações básicas sobre o funcionamento da web
